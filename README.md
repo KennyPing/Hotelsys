@@ -1,2 +1,3 @@
 # Hotelsys
-Small test
+my first Github repo!
+Hello Odin!
